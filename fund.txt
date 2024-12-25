@@ -1,0 +1,28 @@
+TeacherSal Fund 22.0
+Utility Fund: 666.0
+Development Fund 444.0
+
+TeacherSal Fund 0.0
+Utility Fund: 0.0
+Development Fund 0.0
+
+TeacherSal Fund 11.0
+Utility Fund: 0.0
+Development Fund 0.0
+
+TeacherSal Fund 11.0
+Utility Fund: 11.0
+Development Fund 11.0
+
+TeacherSal Fund 22.0
+Utility Fund: 0.0
+Development Fund 0.0
+
+TeacherSal Fund 2244.0
+Utility Fund: 0.0
+Development Fund 0.0
+
+TeacherSal Fund 1234.0
+Utility Fund: 1334.0
+Development Fund 2222.0
+
